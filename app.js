@@ -18,5 +18,5 @@ function slidePlugin(activeSlide = 0) {
 }
 
 
-//default slide number starting from 0
+//active slide number by default, starting from 0
 slidePlugin(2)
